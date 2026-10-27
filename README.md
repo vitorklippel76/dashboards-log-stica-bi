@@ -7,7 +7,7 @@ Os vídeos apresentam dashboards desenvolvidos em contexto profissional, demonst
 🎥 Dashboards e demonstrações
 
 1. Peso Médio — Mercado Externo
-![Assistir ao Dashboard Peso Médio](https://img.youtube.com/vi/XYs0WVJORLk/hqdefault.jpg)
+[![Assistir ao Dashboard Peso Médio](https://img.youtube.com/vi/XYs0WVJORLk/hqdefault.jpg)](https://camo.githubusercontent.com/109f1b355d4281d6f29bd223a5ec6d2ff9951ed7909b5080b062a661afcb01eb/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5859733057564a4f524c6b2f687164656661756c742e6a7067)
 
 2. Performance Logística
 ![Assistir ao Dashboard Performance Logística](https://img.youtube.com/vi/0hZeT8NtvuY/hqdefault.jpg)
