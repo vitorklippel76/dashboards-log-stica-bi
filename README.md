@@ -1,29 +1,78 @@
 📊 Portfólio de Business Intelligence — Logística
-Sobre o portfólio
 
-Este repositório reúne demonstrações visuais de dashboards de Business Intelligence desenvolvidos no contexto de operações logísticas.
-Todos foram criados em Power BI
+Portfólio de demonstrações visuais de dashboards de Business Intelligence (BI) Criados em Power BI aplicados à logística, com foco no acompanhamento de indicadores operacionais, desempenho, transporte e análise de perdas.
 
-Os painéis têm como foco a visualização de indicadores, o acompanhamento de resultados operacionais e a organização de informações para apoiar a análise e a tomada de decisão.
+Os vídeos apresentam dashboards desenvolvidos em contexto profissional, demonstrando a organização visual de informações e o acompanhamento de indicadores para apoio à análise operacional.
 
-🎯 Objetivos dos dashboards
-Facilitar o acompanhamento de indicadores operacionais e logísticos.
-Consolidar informações relevantes em painéis visuais.
-Apoiar a identificação de desvios e oportunidades de melhoria.
-Tornar o acompanhamento de resultados mais acessível por meio de visualizações e indicadores.
-🎥 Demonstrações
+🎥 Dashboards e demonstrações
+1. Peso Médio — Mercado Externo
 
-Os vídeos apresentam a interface dos dashboards e, quando aplicável, sua navegação, seus filtros e suas visualizações.
+Demonstração de dashboard relacionado ao acompanhamento do peso médio no mercado externo.
 
-🛠️ Tecnologias
-Business Intelligence
-Visualização de dados
-Análise de indicadores operacionais
+▶️ Assistir à demonstração
 
-ℹ️ Observações
+![Dashboard Peso Médio — Mercado Externo](https://img.youtube.com/vi/XYs0WVJORLk/hqdefault.jpg)
 
-Este repositório tem finalidade demonstrativa e apresenta registros visuais dos dashboards.
+2. Performance Logística
 
-Os arquivos originais dos relatórios, os modelos de dados, as medidas, as consultas e as bases de dados não estão disponibilizados.
+Demonstração de painel voltado ao acompanhamento da performance logística.
 
-Por se tratarem de projetos realizados em contexto corporativo, a divulgação deve respeitar as políticas de confidencialidade e as autorizações aplicáveis.
+▶️ Assistir à demonstração
+
+![Dashboard Performance Logística](https://img.youtube.com/vi/0hZeT8NtvuY/hqdefault.jpg)
+
+3. Perfil de Perdas
+
+Demonstração de dashboard relacionado à visualização e análise do perfil de perdas.
+
+▶️ Assistir à demonstração
+
+![Dashboard Perfil de Perdas](https://img.youtube.com/vi/hZya6esuxHg/hqdefault.jpg)
+
+4. One Page — Mercado Interno
+
+Demonstração de painel consolidado de indicadores relacionados ao mercado interno.
+
+▶️ Assistir à demonstração
+
+![Dashboard One Page — Mercado Interno](https://img.youtube.com/vi/ABHArOG7OZc/hqdefault.jpg)
+
+5. One Page — Ferrovia
+
+Demonstração de painel consolidado relacionado à operação ferroviária.
+
+▶️ Assistir à demonstração
+
+![Dashboard One Page — Ferrovia](https://img.youtube.com/vi/lDKuxdPNMZ8/hqdefault.jpg)
+
+6. Aderência ao Transporte Ferroviário — Descarregamento
+
+Demonstração de dashboard relacionado ao acompanhamento da aderência no processo de descarregamento ferroviário.
+
+▶️ Assistir à demonstração
+
+![Dashboard Aderência Ferroviária — Descarregamento](https://img.youtube.com/vi/CR7MSItS18U/hqdefault.jpg)
+
+7. Aderência — Expedição Ferroviária
+
+Demonstração de painel relacionado ao acompanhamento da aderência no processo de expedição ferroviária.
+
+▶️ Assistir à demonstração
+
+![Dashboard Aderência — Expedição Ferroviária](https://img.youtube.com/vi/XKIMZRr_nqw/hqdefault.jpg)
+
+🛠️ Área de atuação
+Business Intelligence e visualização de dados
+Dashboards e acompanhamento de indicadores (KPIs)
+Análise de desempenho logístico
+Indicadores de transporte e operações ferroviárias
+Organização de informações para apoio à tomada de decisão
+ℹ️ Sobre os materiais
+
+Este repositório tem finalidade demonstrativa e reúne gravações de dashboards desenvolvidos em contexto profissional.
+
+Os arquivos originais dos relatórios, modelos de dados, medidas, consultas e bases de dados não estão disponibilizados.
+
+As demonstrações não representam projetos reproduzíveis de ponta a ponta. A divulgação dos materiais deve respeitar as autorizações aplicáveis e as regras de confidencialidade.
+
+Obrigado por visitar meu portfólio!
