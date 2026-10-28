@@ -10,43 +10,43 @@ Os vídeos apresentam dashboards desenvolvidos em contexto profissional, demonst
 
 Demonstração de dashboard relacionado ao acompanhamento de peso médio no mercado externo.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=XYs0WVJORLk - Assistir ao vídeo no YouTube
 
 2. Performance Logística
 
 Demonstração de painel de acompanhamento da performance logística.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=0hZeT8NtvuY - Assistir ao vídeo no YouTube
 
 3. Perfil de Perdas
 
 Demonstração de dashboard relacionado à visualização do perfil de perdas.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=hZya6esuxHg - Assistir ao vídeo no YouTube
 
 4. One Page — Mercado Interno
 
 Demonstração de painel consolidado de indicadores relacionados ao mercado interno.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=ABHArOG7OZc - Assistir ao vídeo no YouTube
 
 5. One Page — Ferrovia
 
 Demonstração de painel consolidado relacionado à operação ferroviária.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=lDKuxdPNMZ8 - Assistir ao vídeo no YouTube
 
 6. Aderência ao Transporte Ferroviário — Descarregamento
 
 Demonstração de dashboard relacionado ao acompanhamento da aderência no processo de descarregamento ferroviário.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=CR7MSItS18U - Assistir ao vídeo no YouTube
 
 7. Aderência — Expedição Ferroviária
 
 Demonstração de painel relacionado ao acompanhamento da aderência no processo de expedição ferroviária.
 
-🔗 Assistir ao vídeo no YouTube
+🔗 https://www.youtube.com/watch?v=XKIMZRr_nqw - Assistir ao vídeo no YouTube
 
 🛠️ Área de atuação
 Business Intelligence e visualização de dados
