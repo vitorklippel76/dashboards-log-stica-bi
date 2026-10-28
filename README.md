@@ -7,25 +7,46 @@ Os vídeos apresentam dashboards desenvolvidos em contexto profissional, demonst
 🎥 Dashboards e demonstrações
 
 1. Peso Médio — Mercado Externo
-[![Assistir ao Dashboard Peso Médio](https://img.youtube.com/vi/XYs0WVJORLk/hqdefault.jpg)](https://camo.githubusercontent.com/109f1b355d4281d6f29bd223a5ec6d2ff9951ed7909b5080b062a661afcb01eb/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5859733057564a4f524c6b2f687164656661756c742e6a7067)
+
+Demonstração de dashboard relacionado ao acompanhamento de peso médio no mercado externo.
+
+🔗 Assistir ao vídeo no YouTube
 
 2. Performance Logística
-![Assistir ao Dashboard Performance Logística](https://img.youtube.com/vi/0hZeT8NtvuY/hqdefault.jpg)
+
+Demonstração de painel de acompanhamento da performance logística.
+
+🔗 Assistir ao vídeo no YouTube
 
 3. Perfil de Perdas
-![Assistir ao Dashboard Perfil de Perdas](https://img.youtube.com/vi/hZya6esuxHg/hqdefault.jpg)
+
+Demonstração de dashboard relacionado à visualização do perfil de perdas.
+
+🔗 Assistir ao vídeo no YouTube
 
 4. One Page — Mercado Interno
-![Assistir ao Dashboard One Page Mercado Interno](https://img.youtube.com/vi/ABHArOG7OZc/hqdefault.jpg)
+
+Demonstração de painel consolidado de indicadores relacionados ao mercado interno.
+
+🔗 Assistir ao vídeo no YouTube
 
 5. One Page — Ferrovia
-![Assistir ao Dashboard One Page Ferrovia](https://img.youtube.com/vi/lDKuxdPNMZ8/hqdefault.jpg)
+
+Demonstração de painel consolidado relacionado à operação ferroviária.
+
+🔗 Assistir ao vídeo no YouTube
 
 6. Aderência ao Transporte Ferroviário — Descarregamento
-![Assistir ao Dashboard de Aderência no Descarregamento](https://img.youtube.com/vi/CR7MSItS18U/hqdefault.jpg)
+
+Demonstração de dashboard relacionado ao acompanhamento da aderência no processo de descarregamento ferroviário.
+
+🔗 Assistir ao vídeo no YouTube
 
 7. Aderência — Expedição Ferroviária
-![Assistir ao Dashboard de Aderência na Expedição](https://img.youtube.com/vi/XKIMZRr_nqw/hqdefault.jpg)
+
+Demonstração de painel relacionado ao acompanhamento da aderência no processo de expedição ferroviária.
+
+🔗 Assistir ao vídeo no YouTube
 
 🛠️ Área de atuação
 Business Intelligence e visualização de dados
